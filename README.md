@@ -1,2 +1,2 @@
 # tlx
-Telex token contract
+Telex token contracts
